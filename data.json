@@ -1,0 +1,256 @@
+{
+    "yangilik": [
+      {
+        "kun": "2024-05-10",
+        "rasm": "./src/img/yangilik.jpg",
+        "nom": "Product Seminar",
+        "tip": "yangilik",
+        "id": 1
+      },
+      {
+        "kun": "2024-05-10",
+        "rasm": "./src/img/yangilik1.jpg",
+        "nom": " Milliy maqom va nazm-nasr kechalari.",
+        "tip": "yangilik",
+        "id": 2
+      },
+      {
+        "kun": "2024-05-10",
+        "rasm": "./src/img/yangilik2.jpg",
+        "nom": " Adiblar xiyobonida Ommaviy sport tadbiri tashkil etildi.",
+        "tip": "yangilik",
+        "id": 3
+      },
+      {
+        "kun": "2024-05-10",
+        "rasm": "./src/img/yangilik3.jpg",
+        "nom": "VINOGRADOV O'QISHLARI - 2024” mavzusidagi mavzusidagi xalqaro ilmiy-amaliy konferensiya.",
+        "tip": "yangilik",
+        "id": 4
+      },
+      {
+        "kun": "2024-05-07",
+        "rasm": "./src/img/yangilik4.jpg",
+        "nom": "Product Voleybol musobaqasi final bosqichi.",
+        "tip": "yangilik",
+        "id": 5
+      },
+      {
+        "kun": "2024-05-07",
+        "rasm": "./src/img/yangilik5.jpg",
+        "nom": "Product Sharq tillar festivali.",
+        "tip": "yangilik",
+        "id": 6
+      },
+      { 
+        "kun": "2024-05-06",
+        "rasm": "./src/img/yangilik6.jpg",
+        "nom": "Product Maʼnaviy-maʼrifiy tadbir.",
+        "tip": "yangilik",
+        "id": 7
+      },
+      {
+        "kun": "2024-05-06",
+        "rasm": "./src/img/yangilik7.jpg",
+        "nom": " Universitet birinchiligi musobaqasi.",
+        "tip": "yangilik",
+        "id": 8
+      },
+      {
+        "kun": "2024-05-06",
+        "rasm": "./src/img/yangilik8.jpg",
+        "nom": "Product Respublika ilmiy-amaliy anjumani.",
+        "tip": "yangilik",
+        "id": 9
+      },
+      {
+        "kun": "2024-05-06",
+        "rasm": "./src/img/yangilik9.jpg",
+        "nom": "Product Rektor va talaba-yoshlar.",
+        "tip": "yangilik",
+        "id": 10
+      },
+      {
+        "kun": "2024-05-06",
+        "rasm": "./src/img/yangilik10.jpg",
+        "nom": "Product Teatr ma`naviyat o`chog`i.",
+        "tip": "yangilik",
+        "id": 11
+      },
+      {
+        "kun": "2024-05-06",
+        "rasm": "./src/img/yangilik11.jpg",
+        "nom": "Product Toshkent xalqaro investitsiya forumi.",
+        "tip": "yangilik",
+        "id": 12
+      },
+      {
+        "kun": "2024-05-03",
+        "rasm": "./src/img/yangilik12.jpg",
+        "nom": "Product Coursera” taʼlim kompaniyasining Markaziy Osiyo boʻyicha xududiy direktori Kan Eduard OʻzDJTUga tashrif buyurdi.",
+        "tip": "yangilik",
+        "id": 13
+      },
+      {
+        "kun": "2024-05-03",
+        "rasm": "./src/img/yangilik13.jpg",
+        "nom": "Product Davra suhbati.",
+        "tip": "yangilik",
+        "id": 14
+      },
+      {
+        "kun": "2024-05-03",
+        "rasm": "./src/img/yangilik14.jpg",
+        "nom": "Product Davra suhbati.",
+        "tip": "yangilik",
+        "id": 15
+      },
+      {
+        "kun": "2024-05-03",
+        "rasm": "./src/img/yangilik15.jpg",
+        "nom": "Product Ilmiy-amaliy konferensiya.",
+        "tip": "yangilik",
+        "id": 16
+      },
+      {
+        "kun": "2024-05-03",
+        "rasm": "./src/img/yangilik16.jpg",
+        "nom": "Product OʻzDJTUda “Xotin – qizlarning siyosiy-huquqiy bilimlarini oshirish, oilada zoʻravonlikning oldini olish” mavzusidagi tadbir tashkil etildi.",
+        "tip": "yangilik",
+        "id": 17
+      },
+      {
+        "kun": "2024-05-03",
+        "rasm": "./src/img/yangilik17.jpg",
+        "nom": "лорлж",
+        "tip": "yangilik",
+        "id": 18
+      },
+      {
+        "kun": "2024-05-03",
+        "rasm": "./src/img/yangilik18.jpg",
+        "nom": " лорлж",
+        "tip": "yangilik",
+        "id": 19
+      },
+      {
+        "kun": "2024-05-03",
+        "rasm": "./src/img/yangilik19.jpg ",
+        "nom": " Yoshlar bilan ochiq muloqot boʻlib oʻtdi.",
+        "tip": "yangilik",
+        "id": 20
+      },
+      {
+        "kun": "2024-05-02",
+        "rasm": "./src/img/tadbir.jpg",
+        "nom": "Product Tadbir.",
+        "tip": "tadbir",
+        "id": 21
+      },
+      {
+        "kun": "2024-04-30  ",
+        "rasm": "./src/img/tadbir1.jpg",
+        "nom": " Product Balli, qizlar.",
+        "tip": "tadbir",
+        "id": 22
+      },
+      {
+        "kun": "2024-04-30",
+        "rasm": "./src/img/tadbir2.jpg",
+        "nom": " Product Kengash.",
+        "tip": "tadbir",
+        "id": 23
+      },
+      {
+        "kun": "2024-04-29",
+        "rasm": "./src/img/tadbir3.jpg",
+        "nom": "Product Xalqaro kitob kuni.",
+        "tip": "tadbir",
+        "id": 24
+      },
+      {
+        "kun": "2024-04-25",
+        "rasm": "./src/img/tadbir4.jpg",
+        "nom": " Product Tashrif.",
+        "tip": "tadbir",
+        "id": 25
+      },
+      {
+        "kun": "2024-04-22",
+        "rasm": "./src/img/tadbir5.jpg",
+        "nom": " Product Adabiy kecha.",
+        "tip": "tadbir",
+        "id": 26
+      },
+      {
+        "kun": "2024-04-22",
+        "rasm": "./src/img/tadbir6.jpg ",
+        "nom": "Product O'zDJTU da ONA YER YOSHLAR QO'LIDA shiori ostida Yoshlar bilan muloqot tadbiri boʻlib oʻtdi.",
+        "tip": "tadbir",
+        "id": 27
+      },
+      {
+        "kun": "2024-04-05",
+        "rasm": "./src/img/tadbir7.jpg ",
+        "nom": " Product Uchrashuv.",
+        "tip": "tadbir",
+        "id": 28
+      },
+      {
+        "kun": "2024-05-10",
+        "rasm": "./src/img/elon.jpg",
+        "nom": "Product “MEDIAMAKONDA TIL, TAHRIR VA TARJIMA MUAMMOLARI” mavzusidagi xalqaro ilmiy-amaliy konferensiya.",
+        "tip": "e'lon",
+        "id": 29
+      },
+      {
+        "kun": "2024-05-10  ",
+        "rasm": "./src/img/elon1.jpg",
+        "nom": " Product 2024-yil 24-MAY, GLOBAL EKOLOGIK MUAMMOLAR, CHULLANISH VA OZQIQ-OVQAT XAVFSIZLIGI XALQARO ILMIY-AMALIY KONFRANSIYA KONFERENSIYA HAQIDA AXBOROT XATI",
+        "tip": "e'lon",
+        "id": 30
+      },
+      {
+        "kun": "2024-05-10",
+        "rasm": "./src/img/elon2.jpg",
+        "nom": " Product ' O'QITUVCHILAR TA'LIMININING TADQIQOTLARGA ASOSLANGAN TRANSFORMASIYASI: AN`ANAVIY INNOVATSIYA ASOSI '- O‘qituvchilar ta’limi bo‘yicha xalqaro konferensiyasi",
+        "tip": "e'lon",
+        "id": 31
+      },
+      {
+        "kun": "2024-05-07",
+        "rasm": "./src/img/elon3.jpg",
+        "nom": "  O‘zDJTU Times Higher Education “Asia University Rankings — 2024” xalqaro reytingida e’tirof etildi.",
+        "tip": "e'lon",
+        "id": 32
+      },
+      {
+        "kun": "2024-05-06",
+        "rasm": "./src/img/elon4.jpg",
+        "nom": "  “Ijtimoiy davlat zarurati va uning qadriyatiy belgilari” mavzusida respublika ilmiy konferensiyasi",
+        "tip": "e'lon",
+        "id": 33
+      },
+      {
+        "kun": "2024-05-04",
+        "rasm": "./src/img/elon5.png",
+        "nom": "Ilmiy seminar",
+        "tip": "e'lon",
+        "id": 34
+      },
+      {
+        "kun": "2024-05-04",
+        "rasm": "./src/img/elon6.jpg ",
+        "nom": " Ilmiy seminar",
+        "tip": "e'lon",
+        "id": 35
+      },
+      {
+        "kun": "2024-05-04",
+        "rasm": "./src/img/elon7.png",
+        "nom": " Ilmiy seminar",
+        "tip": "e'lon",
+        "id": 36
+      }
+    ]
+  }
